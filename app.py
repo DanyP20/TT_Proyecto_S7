@@ -1,6 +1,6 @@
 import pandas as pd
 import plotly.express as px
-import streamlit as st
+import streamlit as st # type: ignore
 
 st.header("Analisis de venta de vehiculos usados") 
     

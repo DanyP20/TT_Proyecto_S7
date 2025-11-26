@@ -5,3 +5,5 @@ En este proyecto pudimos desarrollar una app mediante la terminal de la computad
 
 Además, se convierte en una parte valiosa de tu portafolio profesional, ya que demuestra tus habilidades técnicas y tu capacidad para crear soluciones completas. También funciona como una herramienta de análisis con gráficos, histogramas y opciones de filtrado, lo que facilita que cualquier persona, incluso sin conocimientos técnicos, pueda interpretar y analizar la información.
 
+link de render: https://tt-proyecto-s7.onrender.com
+GitHub repository: https://github.com/DanyP20/TT_Proyecto_S7.git
